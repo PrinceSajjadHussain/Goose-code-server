@@ -3,7 +3,7 @@
 A containerized VS Code server environment with integrated Goose AI coding assistant. This project provides a ready-to-use Docker setup that combines VS Code Server with the Goose AI agent, allowing you to access a powerful coding environment through your browser.
 
 <div align="center">
-  <img src="static/img/logo.png" alt="Goose AI + VS Code Server" width="400">
+  <img src="logo.png" alt="Goose AI + VS Code Server" width="400">
 </div>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
@@ -45,7 +45,7 @@ A containerized VS Code server environment with integrated Goose AI coding assis
    - Default password: `vscode-password` (can be changed in .env)
 
 <div align="center">
-  <img src="/static/img/screenshot.png" alt="VS Code Server Screenshot" width="600">
+  <img src="screenshot.png" alt="VS Code Server Screenshot" width="600">
   <p><i>Example of the VS Code interface in browser</i></p>
 </div>
 
